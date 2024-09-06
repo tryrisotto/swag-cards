@@ -6,3 +6,6 @@ This script generates a unique QR code for each URL provided in a CSV file. The 
 
 - [Moo Printfinity](https://www.moo.com/us/about/printfinity)
 - [Fourthwall Promo Codes](https://help.fourthwall.com/hc/en-us/articles/13331335603227-How-do-I-create-a-promo-code)
+
+
+![Example Image](https://github.com/tryrisotto/swag-cards/blob/e113a7ab6afeff40ecdc091f3b0cabc1985e35d5/sample-card-printed.jpeg)
